@@ -151,6 +151,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
 * [MAGNET DumpIt](https://github.com/MagnetForensics/dumpit-linux) - Fast memory acquisition open source tool for Linux written in Rust. Generate full memory crash dumps of Linux machines.
+* [ubuntils](https://github.com/YOUR-USERNAME/ubuntils) - Python CLI/TUI for forensic triage of Ubuntu systems: detects and remediates persistence mechanisms, collects forensic artifacts, and generates SHA-256-verified timelines with Wazuh integration.
 
 ### Log Analysis Tools
 
